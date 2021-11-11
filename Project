@@ -1,5 +1,5 @@
 introduction to git
-Git config -- global user.name "44168"
+
 Git config -- global user.email "Divya.R@itcinfotech..com"
 git init
     -> initializes an empty git repository.
